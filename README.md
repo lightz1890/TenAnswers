@@ -20,4 +20,4 @@ Piyakrit Wongkasamesak, Kittipat Pramjit  <hr>
 </div>
   <hr>
 
-Try this game: [https://lightz1890.github.io/TenAnswers/](https://lightz1890.github.io/TenAnswers/)
+Try this game: [https://lightz1890.github.io/TenAnswer/](https://lightz1890.github.io/TenAnswer/)
